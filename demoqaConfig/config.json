@@ -1,0 +1,6 @@
+{
+  "demoqa_url": "https://demoqa.com/register",
+  "demoqa_title": "ToolsQA",
+  "demoqa_login_url": "https://demoqa.com/login",
+  "baseurl": "https://demoqa.com"
+}
